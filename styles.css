@@ -40,6 +40,12 @@ nav ul li a {
   padding: 50px;
 }
 
+.features img {
+  width: 300px
+  height: 300px
+}
+
+
 .features .game-box {
   background-color: #f4f4f4;
   padding: 20px;
